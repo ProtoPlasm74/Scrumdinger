@@ -18,6 +18,7 @@
 		5993051B283734020050550C /* ScrumdingerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5993051A283734020050550C /* ScrumdingerTests.swift */; };
 		59930525283734020050550C /* ScrumdingerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59930524283734020050550C /* ScrumdingerUITests.swift */; };
 		59930527283734020050550C /* ScrumdingerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59930526283734020050550C /* ScrumdingerUITestsLaunchTests.swift */; };
+		59C2A3F4284071320097B28A /* ScrumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C2A3F3284071320097B28A /* ScrumView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		59930520283734020050550C /* ScrumdingerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrumdingerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59930524283734020050550C /* ScrumdingerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerUITests.swift; sourceTree = "<group>"; };
 		59930526283734020050550C /* ScrumdingerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		59C2A3F3284071320097B28A /* ScrumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				59930509283733FF0050550C /* ScrumdingerApp.swift */,
 				5993050B283733FF0050550C /* MeetingView.swift */,
 				593BE12C2837AF98003A98D1 /* CardView.swift */,
+				59C2A3F3284071320097B28A /* ScrumView.swift */,
 				593BE12E2837CBA8003A98D1 /* TrailingIconLabelStyle.swift */,
 				5993050D283734020050550C /* Assets.xcassets */,
 				5993050F283734020050550C /* Preview Content */,
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				593BE12B2837ACDD003A98D1 /* DailyScrum.swift in Sources */,
+				59C2A3F4284071320097B28A /* ScrumView.swift in Sources */,
 				593BE12F2837CBA8003A98D1 /* TrailingIconLabelStyle.swift in Sources */,
 				593BE1292837AA37003A98D1 /* Theme.swift in Sources */,
 				5993050C283733FF0050550C /* MeetingView.swift in Sources */,
